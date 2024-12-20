@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ShowEmpData() {
+export default function ShowEmp() {
     const empData = [
       { name: "Ramu", email: "ramu@gmail.com", company: "IBM", salary: 45000 },
       { name: "Raju", email: "raju@gmail.com", company: "HP", salary: 35000 },
